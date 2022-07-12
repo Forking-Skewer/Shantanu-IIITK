@@ -1,0 +1,152 @@
+{
+    "basics": {
+        "name": "Shantanu Kapse",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1067@iiitkota.ac.in",
+        "phone": "+919307491987",	
+        "website": "",
+        "summary": Hello I am a first year student pursuing CSE. I am Curious about almost everything, I love to learn new things. Practising hobbies is what I am passionate about and just a note my hobbies are far too diverse :)
+
+",
+        "location": {
+            "address": "Nagpur",
+            "postalCode": "440023",
+            "city": "Nagpur",
+            "countryCode": "India",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Twimtter",
+                "username": "nahihaibhaitwitter",
+                "url": "https://twitternahihaibhai"
+            },
+            {
+                "network": "Github",
+                "username": "Forking-Skewer",
+                "url": "https://www.github.com/Forking-Skewer"
+            },
+            {
+                "network": "linkedin",
+                "username": "Shantanu Kapse",
+                "url": "https://www.linkedin.com/in/shantanu-kapse-0b925a22b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "shantanu_ub",
+                "url": "https://instagram.com/shantanu_ub"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.74",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link":""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+		"3D Animation",
+		"Blender",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Git",
+                "C/C++",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": [
+                "Guitar",
+		"Piano",
+		"Audio edits"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+	{
+            "name": "Anime",
+            "keywords": [
+                "",
+		"",
+		""
+            ]
+        },
+    ]
+}
